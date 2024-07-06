@@ -1,4 +1,7 @@
+<!--header-->
 <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=welcome%20to%20GyuHa's%20github&fontColor=00000&fontAlignY=50&animation=blink&descAlign=64&descAlignY=42&rotate=20&fontAlign=55&fontSize=50" />
+
+<!--tech stack-->
 <h2 align="center"> Tech Stack </h2>
 <div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/JAVA_SCRIPT-black?style=flat&logo=javascript&logoColor=%23F7DF1E">
 <img alt="Static Badge"  src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=%23E34F26">
@@ -17,7 +20,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JIRA-black?style=flat&logo=jira&logoColor=%230052CC">
 <img alt="Static Badge" src="https://img.shields.io/badge/SLACK-black?style=flat&logo=slack&logoColor=white">
 </div>
-
+<!--experience-->
 
 
 
