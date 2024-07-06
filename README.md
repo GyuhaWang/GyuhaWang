@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DEVELOPER%20WANGGYUHA&fontSize=60)
-
+<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=welcome%20to%20GyuHa's%20github&fontColor=00000&fontAlignY=50&animation=blink&descAlign=64&descAlignY=42&rotate=20&fontAlign=55&fontSize=50" />
 <h2 align="center"> Tech Stack </h2>
 <div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/JAVA_SCRIPT-black?style=flat&logo=javascript&logoColor=%23F7DF1E">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=%23E34F26">
+<img alt="Static Badge"  src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=%23E34F26">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=%231572B6">
 <img alt="Static Badge" src="https://img.shields.io/badge/DART-black?style=flat&logo=dart&logoColor=%230175C2">
 <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-black?style=flat&logo=typescript&logoColor=%233178C6"></div>
