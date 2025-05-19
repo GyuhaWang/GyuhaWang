@@ -3,14 +3,6 @@
 # 👨‍💻 About Me
 
 Hello! I'm a passionate software developer with experience in building efficient, user-friendly applications. My journey started with a dual major in **Business Administration** and **Computer Science**, which gave me a unique perspective on how technology can drive business efficiency.
-
-## 🚀 Key Skills
-
-* **Frontend:** Next.js, React, Tailwind CSS, TypeScript, Flutter
-* **Backend:** Node.js, Express, PostgreSQL, MongoDB
-* **Mobile:** Flutter (Dart)
-* **Tools:** Git, Vercel, Prisma, NextAuth
-
 ## 📚 Work Experience
 
 * **Frontend Engineer , Mediark**&nbsp;&nbsp;&nbsp;&nbsp;`October 2022 – May 2024 (1 year 9 months)`
@@ -22,6 +14,15 @@ Hello! I'm a passionate software developer with experience in building efficient
 * **Frontrend Developer, Startup Club at HUFS**&nbsp;&nbsp;&nbsp;&nbsp;`January 2022 – January 2023 (1year)`
   - Launched ["Meetinghakgaeron"](https://meetingo.me), a connection service for university students, and received awards for the project.
   - Planned and developed various IT services as part of the club's initiatives.
+## 🚀 Key Skills
+
+* **Frontend:** Next.js, React, Tailwind CSS, TypeScript, Flutter
+
+* **Mobile:** Flutter (Dart)
+* **Backend:** Node.js, Express, PostgreSQL, MongoDB
+* **Tools:** Git, Vercel, Prisma, NextAuth
+
+
 
 ## 🏆 Awards
 
